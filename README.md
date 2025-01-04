@@ -1,4 +1,4 @@
-# Job Interview Preparation Chatbot  
+# Job Interview Preparation Intent-based Chatbot  
 
 This project is a **Job Interview Preparation Chatbot** developed as part of the **Skill4Future Internship** by AICTE. The chatbot is designed to assist job seekers in preparing for interviews by simulating Q&A sessions tailored to specific job roles. It uses Python, Streamlit, and Natural Language Processing (NLP) techniques to provide an interactive and engaging user experience.  
 
