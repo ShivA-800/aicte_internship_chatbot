@@ -214,4 +214,7 @@ AICTE Internship ID: INTERNSHIP_173070615967287aef12823
 
 
     """)
-    #https://shivaradharapu-aicte-internship-chatbot.streamlit.app/  deployment using streamlit 
+# https://shivaradharapu-aicte-internship-chatbot.streamlit.app/
+# after deploying the code in the above link, the chatbot will be available for the users to interact with it.
+# The chatbot will provide the users with the answers to the questions they ask based on the role they select.
+# The chatbot will also store the conversation history of the users for future reference.
