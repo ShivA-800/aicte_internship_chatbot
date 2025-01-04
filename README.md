@@ -37,3 +37,7 @@ The chatbot is designed to be deployed using **Streamlit Cloud** for easy access
 3. Run the chatbot locally:
    streamlit run chatbot.py
 
+**You can see the web app:**  
+    https://shivaradharapu-aicte-internship-chatbot.streamlit.app/  
+    deployed using streamlit
+
