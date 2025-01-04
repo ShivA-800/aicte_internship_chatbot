@@ -28,7 +28,7 @@ The chatbot is designed to be deployed using **Streamlit Cloud** for easy access
 ## Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/job-interview-chatbot.git
+   git clone https://github.com/ShivA-800/aicte_internship_chatbot.git
    cd job-interview-chatbot
 
 2. Install the required packages:
